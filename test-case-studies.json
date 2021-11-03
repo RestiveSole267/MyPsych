@@ -1,0 +1,353 @@
+{
+  "subject": [
+    {
+      "topics": [
+        {
+          "Biological":"true",
+          "Cognitive":"true",
+          "Sociocultural":"true"
+        }
+      ],
+      "lessons" : [
+          {
+              "Biological": [],
+              "Cognitive": [
+                  {
+                    "name":"msm",
+                    "definition":"Multi-store model or MSM is a theory that states that memory consists of three stores: sensory register, short-term, and long-term memory.",
+                    "studies": "Glanzer & Cunitz (1996) / HM: Milner (1966)"
+                  },
+                  {
+                    "name":"wmm",
+                    "definition":"Working Memory Model or WMM is a multi-component system that theorizes that complex reasoning and learning tasks require a mental workspace to hold and manipulate information.",
+                    "studies": "Landry & Bartling (2011) / Baddeley and Hitch (1974) "
+                  },
+                  {
+                    "name":"schema",
+                    "definition":"A schema describes a pattern of thought or behavior that organizes categories of information and the relationship among them.",
+                    "studies":"Bartlett (1932) / Brewer & Treyens (1981)"
+                  },
+                  {
+                    "name":"reconstructive",
+                    "definition":"Reconstructive Memory is a theory that memories are not recalled in chunks, instead they are collected as independent memories.",
+                    "studies":"Loftus & Palmer (1974) / Loftus and Pickrell (1995)"
+                  }
+              ],
+              "Sociocultural": []
+          }
+      ],
+      "cognitive": [
+        {
+          "msm": [
+            {
+              "definition":"Multi-store model or MSM is a theory that states that memory consists of three stores: sensory register, short-term, and long-term memory.",
+              "studies": [
+                {
+                  "name":"Glanzer & Cunitz (1966)",
+                  "aim":"Test the MSM that STM & LTM separates stores in a free experiment.",
+                  "procedure":"Researchers showed 15 lists of 15 words one at a time under a no, 10, or 20 second delay.",
+                  "results":"30 seconds doesn't affect the LTM, primary effect affected by delay in DFR.",
+                  "conclusion":"Implied that primary were stored somewhere else than receny."
+                },
+                {
+                  "name":"HM:Milner (1966)",
+                  "aim":"To study the biological reasons for anterograde amnesia in the patient HM (Henry Molaison).",
+                  "procedure":"IQ testing, direct observation of his behavior, interviews with both HM and his family members, memory recall tests, learning tasks and MRI.",
+                  "results":"HM could not acquire new episodic & semantic memory. This suggests that the part of the brain  that was removed from his brain is important for long-term explicit memory.",
+                  "conclusion":"After an MRI scan of HM's brain was performed, the extensive damage to the temporal lobe explains the problem of transferring short-term memory to long-term memory"
+                }
+              ]
+            }
+          ],
+          "wmm": [
+            {
+              "definition":"Working Memory Model or WMM is a multi-component system that theorizes that complex reasoning and learning tasks require a mental workspace to hold and manipulate information.",
+              "studies": [
+                {
+                  "name":"Landry & Bartling (2011)",
+                  "aim":"Investigate if articulatory suppression influence recall of written list of phonologically dissimilar letters in serial recall",
+                  "procedure":"The participants of 34 undergraduate psychology students, used an independent samples design, and were tested individually.",
+                  "results":"The scores from the experimental group were much lower than the scores from the control groups.",
+                  "conclusion":"Hypothesis was supported by the results as the mean percent of accurate recall in the control group was higher than the mean percent of accurate recall."
+                },
+                {
+                  "name":"Baddeley and Hitch (1974)",
+                  "aim":"Investigate if participants can use different parts of working memory at the same time, developed working memory model.",
+                  "procedure":"Participants performed dual task, a digit span task as well as a verbal reasoning task which required answers to true/false questions.",
+                  "results":"As the number of digits increased, participants took longer, but not considerably, to answer the verbal reasoning task.",
+                  "conclusion":"Verbal reasoning used central executive and digit span used phonological loop, worst performers recited random numbers."
+                }
+              ]
+            }
+          ],
+          "schema": [
+            {
+              "definition":"A schema describes a pattern of thought or behavior that organizes categories of information and the relationship among them.",
+              "studies": [
+                {
+                  "name":"Bartlett (1932)",
+                  "aim":"To test the effects of schemas on participants recalls of a story.",
+                  "procedure":"They readed “The War of the Ghosts'' then asked to recall/ summarize the story at different time periods.",
+                  "results":"Participants often substituted their own interpretation.",
+                  "conclusion":"Unfamiliar material changes when it is recalled. It becomes shorter, simpler and more stereotyped; this may be due to the effect of schema on memory."
+                },
+                {
+                  "name":"Brewer & Treyens (1981)",
+                  "aim":"Investigate if people’s memory of objects in a room is influenced by existing schemas.",
+                  "procedure":"The Participants were asked to wait in an office that contained materials. After waiting, they were taken out and asked to write down everything they remember in the room.",
+                  "results":"Participants recalled the basic office materials better and listed common office materials that weren’t present in the room.",
+                  "conclusion":"The participants’ schema of an office room influences their recollection of the office room they were sat in."
+                }
+              ]
+            }
+          ],
+          "reconstructive": [
+            {
+              "definition": "Reconstructive Memory is a theory that memories are not recalled in chunks, instead they are collected as independent memories.",
+              "studies":[
+                {
+                  "name":"Loftus & Palmer (1974)",
+                  "aim":"The aim of the research was to investigate whether the use of leading questions would affect the estimation of speed.",
+                  "procedure": {
+                    "1":"Seven films were shown, each depicting a traffic accident. following each film, participants received a questionnaire asking them first to give an account of the accident.",
+                    "2":"A one-minute film depicting a multiple car accident was shown to the participants. The accident lasted for 4 seconds. At the end of the film, participants received a questionnaire asking them first to describe the accident in their own words."
+                  },
+                  "results": {
+                    "1":"As hypothesized there was a clear difference between the mean estimated speeds depending on the verb used ",
+                    "2":"The use of different verbs affected whether the participant claimed having seen any broken glass"
+                  },
+                  "conclusion":"Memory can be distorted based on the use of different words because people have pre-established schemas for the context of the different verbs."
+                },
+                {
+                  "name":"Loftus and Pickrell (1995)",
+                  "aim":"To investigate whether it is possible to make people form a false memory of an event that never happened to them.",
+                  "procedure":"Participants were told they were taking part in a study about childhood memory with a focus on looking at why people remember some things and not others.",
+                  "results":"68% of true events recalled; 75% resisted the suggestions of the false event; 19/24 chose the correct false event at debrief, some were still dubious it was a false event despite choosing it at debrief.",
+                  "conclusion":"Some people can be misled into believing a false event happened to them in their childhood through suggestions that it did happen."
+                }
+              ]
+            }
+          ],
+          "emotion-memory": [
+            {
+              "definition": "Idea that emotion plays a key part in memory and often makes the experience something special.",
+              "studies":[
+                {
+                  "name":"Brown and Kulik (1977)",
+                  "aim":"The aim was to investigate whether significant events cause flashbulb memories.",
+                  "procedure":"The researchers asked 40 black and white male participants who were all American, to fill a questionnaire regarding deaths of public icons/figures. ",
+                  "results":"90% of the participants recalled a vast amount of detail about the day when the events occurred. 75% black participants recalled a vast amount of detail about Dr. Martin Luther King Jr's murder unlike the 33% white participants.",
+                  "conclusion":"The results of the study support Brown and Kulik's Flashbulb Memory. Flashbulb Memory was more likely to occur for personal events or events that were spontaneous."
+                },
+                {
+                  "name":"Sharot et al (2007)",
+                  "aim":"To determine the role of biological factors on flashbulb memories.",
+                  "procedure":"Participants were put in an fMRI machine and whilst in the scanner they were presented with word cues on the screen alongside the word summer or September in order to get the participant to link the words to either the summer holidays or the 9/11 attack.",
+                  "results":"The activation of the amygdala for the participants who were downtown was higher when they recalled memories of the terrorist attack than when they recalled events from the preceding summer.",
+                  "conclusion":"The study is correlational in nature and does not establish a cause and effect relationship. The experiment is highly artificial - and thus low in ecological validity."
+                }
+              ]
+            }
+          ],
+          "dual": [
+            {
+              "definition": "The Dual Process Model is a theory that states that there are 2 systems, System 1 and 2. System 1 is for quick thinking and prone to error, while System 2 is a rational mode of thinking and less prone to error.",
+              "studies":[
+                {
+                  "name":"Bechara et al (1999)",
+                  "aim":"To compare the decision-making of participants with damage to their ventromedial prefrontal cortices.",
+                  "procedure":"4 decks of cards, 2 decks have low initial reward but low long-term risks, while the other 2 decks have high initial reward but high long-term risk.",
+                  "results":"Participants with vmPFC lesions could not move away from the high-risk deck to the overall more advantageous deck like the healthy control participants eventually did",
+                  "conclusion":"VM lesion patients preferred decks with high immediate reward to those with smaller reward, although the decks with small reward were more advantageous in the long term."
+                },
+                {
+                  "name":"Wason (1968)",
+                  "aim":"To investigate the difficulty of making the contrapositive inference from conditional sentences in the form, (if P, then Q)",
+                  "procedure":"they decided which of four cards (P, not P, Q, not Q) would enable to determine whether a given conditional sentence was true or false",
+                  "results":"P's tried to verify the rule and as such chose more incorrect cards.",
+                  "conclusion":"This shows how powerful system 1 can be as it can interfere with system 2 even when you have learned the right way to do things."
+                }
+              ]
+            }
+          ],
+          "heuristics": [
+            {
+              "definition": "Heuristics is the idea of a mental shortcut that allows a person to solve problems and make a decision quickly.",
+              "studies":[
+                {
+                  "name":"Tversky & Kahneman (1986)",
+                  "aim":"To test the influence of the anchoring bias on decision making.",
+                  "procedure":"Participants were asked to solve for the product of either 1 through 8 or the reverse within 5 seconds. Since they could not calculate it they had to guess.",
+                  "results":"When the anchor was lower so was the final result, and the other way around.",
+                  "conclusion":"The first number seen by participants seems to have influenced the final estimation, which they had to do as they did not have time to calculate."
+                },
+                {
+                  "name":"Strack & Mussweiler (1997)",
+                  "aim":"To test the influence of the anchoring bias on decision making.",
+                  "procedure":"69 German undergraduates took part in a general knowledge questionnaire. Each question had two components.",
+                  "results":"The results showed that high anchors led to higher absolute judgements.",
+                  "conclusion":"The anchor clearly influenced the final value offered."
+                }
+              ]
+            }
+          ],
+          "digital-cognition": [
+            {
+              "definition": "This research subject states that technology can easily manipulate the human brain, while on the other hand technology can improve our problem-solving, spatial reasoning, and creativity.",
+              "studies":[
+                {
+                  "name":"Kramer et al (2014)",
+                  "aim":"To see if emotional states could transfer from one person to another.",
+                  "procedure":"Research team collaborated with FB to alter the content of the news feed seen by 689,003 users used an existing FB algorithm to identify posts containing pos or neg words. For some participants between 10-90% of the posts of their friends were omitted from their feed. For other participants 10-90% of the negative posts of their friends were omitted. A control group for each condition was also assessed, where a proportion of their feed was omitted at random. Researchers never viewed/altered any posts manually; this was all done automatically by algorithms. ",
+                  "results":"When participants had the positive content of their news feed reduced, they were less likely to use positive language in their own posts, when they have negative content of their news feed reduced, they were less likely to use negative language in their own posts.",
+                  "conclusion":"The emotional content to which we are exposed through our FB feed does indeed affect our own emotional state."
+                },
+                {
+                  "name":"Storm et al (2016)",
+                  "aim":"That the use of Google to retrieve information made it more likely that one would rely on Google as opposed to individual memory stores.",
+                  "procedure":"60 undergraduate volunteers, PPs were randomly allocated into 3 conditions: Internet, Memory, Individual Memory Store. Experiment split into 2 phases.",
+                  "results":"Internet: 83%, Memory: 63%, Baseline: 65%",
+                  "conclusion":"Using the Internet to retrieve information makes us more likely to do so/ less likely to use our own memory."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "biological":[
+        {
+          "conformity": [
+            {
+             "definition":"The process whereby people change their beliefs, attitudes, actions, or perceptions to more closely match those held by groups to which they belong or want to belong or by groups whose approval they desire.",
+             "studies": [
+               {
+                "name":"Asch (1956)",
+                "aim":"To see how a lone participant will react to the behaviour of confederates - investigating the effect of majority influence on conformity.",
+                "procedure":"Participants were seated around a table and asked to look at three lines of different lengths. They took turns to call out which of the three lines was the same as the standard line, with the participants always answering second to last. On 12 of the 18 trials (critical trials) the confederates were told to give the same incorrect answer.Control condition - no confederates giving the wrong answer.",
+                "results":"Critical trials conformity rate = 33%; on around 1/3 of trials the participant agreed with the group Asch also discovered individual differences; around 25% of the participants never conformed on any of the trials; 50% conformed on six or more of the critical trials and one in 20 of the participants conformed on all 12 of the critical trials.",
+                "conclusion":"Interviewed participants after - found that the majority still believed their own perceptions and judgements privately, but publicly changed their behaviour - suggest people comply with the majority to fit in."
+               }
+              ]
+            }
+          ]
+        }
+      ],
+      "sociocultural": [
+        {
+          "conformity": [
+            {
+             "definition":"The process whereby people change their beliefs, attitudes, actions, or perceptions to more closely match those held by groups to which they belong or want to belong or by groups whose approval they desire.",
+             "studies": [
+               {
+                "name":"Asch (1956)",
+                "aim":"To see how a lone participant will react to the behaviour of confederates - investigating the effect of majority influence on conformity.",
+                "procedure":"Participants were seated around a table and asked to look at three lines of different lengths. They took turns to call out which of the three lines was the same as the standard line, with the participants always answering second to last. On 12 of the 18 trials (critical trials) the confederates were told to give the same incorrect answer.Control condition - no confederates giving the wrong answer.",
+                "results":"Critical trials conformity rate = 33%; on around 1/3 of trials the participant agreed with the group Asch also discovered individual differences; around 25% of the participants never conformed on any of the trials; 50% conformed on six or more of the critical trials and one in 20 of the participants conformed on all 12 of the critical trials.",
+                "conclusion":"Interviewed participants after - found that the majority still believed their own perceptions and judgements privately, but publicly changed their behaviour - suggest people comply with the majority to fit in."
+               }
+              ]
+            }
+          ],
+          "sidentity": [
+            {
+             "definition":"The study of the interplay between personal and social identities.",
+             "studies": [
+               {
+                "name":"Tajfel (1971)",
+                "aim":"",
+                "procedure":"",
+                "results":"",
+                "conclusion":""
+               }
+              ]
+            }
+          ],
+          "scognitive": [
+            {
+             "definition":"The influence of individual experiences, the actions of others, and environmental factors on individual health behaviors.",
+             "studies": [
+               {
+                "name":"Bandura (1961)",
+                "aim":"",
+                "procedure":"",
+                "results":"",
+                "conclusion":""
+               }
+              ]
+            }
+          ],
+          "stereotyping": [
+            {
+             "definition":"When we make a generalization about the behaviours of a group and then assume that a member of that group will show that behaviour.",
+             "studies": [
+               {
+                "name":"Steele & Aronson (1995)",
+                "aim":"",
+                "procedure":"",
+                "results":"",
+                "conclusion":""
+               }
+              ]
+            }
+          ],
+          "cultural-dim": [
+            {
+             "definition":"The traits that are characteristic to a culture; they can be measured relative to other cultures.",
+             "studies": [
+               {
+                "name":"Berry (1967)",
+                "aim":"To measure the level of conformity in individualistic vs. collectivistic societies by applying the Asch Paradigm.",
+                "procedure":"The participants were put in rooms and were asked to pick a line out of a set of lines that were most alike to a given line. On the third trial, the experimenter gave the individuals a hint of what others in their culture chose to perceive if the participants would conform to the responses of their group.",
+                "results":"The Temne, which is the collectivistic culture, had a much higher rate of conformity when told what other Temne believed, even though it was incorrect. The Inuits had even a lower rate of conformity that the Scots.",
+                "conclusion":"There was a high level of conformity with the Tenme because they had an agricultural economy and needed to depend on cooperation in farming. There was a lower level of conformity among Inult because they often hunt alone."
+               }
+              ]
+            }
+          ],
+          "enculturation": [
+            {
+             "definition":"The processes by which particular cultural values, ideas, beliefs, and behavioral patterns are instilled in the members of a society.",
+             "studies": [
+               {
+                "name":"Fagot (1978)",
+                "aim":"",
+                "procedure":"",
+                "results":"",
+                "conclusion":""
+               }
+              ]
+            }
+          ],
+          "acculturation": [
+            {
+             "definition":"The process of changing and assimilating into a different culture from the original one into which we were born.",
+             "studies": [
+               {
+                "name":"Lueck & Wilson (2010)",
+                "aim":"",
+                "procedure":"",
+                "results":"",
+                "conclusion":""
+               }
+              ]
+            }
+          ],
+          "globalization": [
+            {
+             "definition":"The process by which cultures can influence one another and become more alike",
+             "studies": [
+               {
+                "name":"Novotny & Polonsky (2011)",
+                "aim":"",
+                "procedure":"",
+                "results":"",
+                "conclusion":""
+               }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
