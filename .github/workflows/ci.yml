@@ -13,4 +13,6 @@ jobs:
           python-version: 3.x
       - run: pip3 install mkdocs-material
       - run: pip3 install mkdocs-awesome-pages-plugin
+      - run: pip3 install git-revision-date-localized
       - run: mkdocs gh-deploy --force
+
