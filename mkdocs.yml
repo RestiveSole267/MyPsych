@@ -10,6 +10,7 @@ theme:
   name: material
   features:
     - navigation.tabs
+    - content.tabs.link
   
   include_search_page: false
   search_index_only: true
