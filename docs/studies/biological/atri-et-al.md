@@ -20,6 +20,7 @@ Determine/test the role of acetylcholine in memory formation
   - Allocate participants to one of 3 conditions. No injection, glycopyrrolate injected or scopolamine injected
   - Same procedure as phase 1
   ```
+
 ### Results
 In all 3 conditions,overlapping pairs scored lower and scopolamine did the worst (weren't able to recall any overlapping pairs).
 
